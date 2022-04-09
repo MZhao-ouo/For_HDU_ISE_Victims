@@ -10,7 +10,6 @@
 ## Vivado 安装
 
 
-
 ### 1. 下载
 
         从 [Vivado 官网](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/archive.html) 下载 2020.1 的版本，点击 <u>Xilinx Unified Installer 2020.1: Windows Self Extracting Web Installer</u>，注意名称，如图：
@@ -51,7 +50,7 @@
 
 ### 3. 获取 Licence
 
-        [前往官网获取证书](https://www.xilinx.com/member/forms/license-form.html?group=esd_oms&os=nt64&version=2020.1&licensetype=4&ea=88a4c2a201d8,4c034f0a1118,4e034f0a1117,00ffdbbaaa50,005056c00001,005056c00008,4c034f0a111b,4c034f0a1117&ds=f0bb5ccc&di=&hn=MZhao-LEGION)，填完信息点 Next，我选了如图的Licence
+        [前往官网获取证书](https://www.xilinx.com/member/forms/license-form.html?group=esd_oms&os=nt64&version=2020.1&licensetype=4&ea=88a4c2a201d8,4c034f0a1118,4e034f0a1117,00ffdbbaaa50,005056c00001,005056c00008,4c034f0a111b,4c034f0a1117&ds=f0bb5ccc&di=&hn=MZhao-LEGION)，填完信息点 Next，我选了如图的三个 Licence
 
 ![](./images/2022-04-09-12-25-28-image.png)
 
