@@ -4,11 +4,14 @@
 欢迎 [前往我的博客](http://blog.mmmz.xyz/For-HDU-ISE-Victim/) 进行阅读
 ---
 ## 目录
-- [Vivado 安装](#vivado-安装)
+- [去你的 ISE，Vivado 我来啦](#去你的-isevivado-我来啦)
+  - [欢迎 前往我的博客 进行阅读](#欢迎-前往我的博客-进行阅读)
+  - [目录](#目录)
+  - [Vivado 安装](#vivado-安装)
     - [1. 下载](#1-下载)
     - [2. 安装](#2-安装)
     - [3. 获取 License](#3-获取-license)
-- [HDU 常用流程](#hdu-常用流程)
+  - [HDU 常用流程](#hdu-常用流程)
     - [1. 新建项目](#1-新建项目)
     - [2. 模块编写](#2-模块编写)
     - [3. 语法检查](#3-语法检查)
@@ -17,9 +20,11 @@
     - [6. 逻辑综合](#6-逻辑综合)
     - [7. 查看电路](#7-查看电路)
     - [8. 配置管脚](#8-配置管脚)
+      - [方法一：图形化界面](#方法一图形化界面)
+      - [方法二：手写代码](#方法二手写代码)
     - [9. 生成比特流文件](#9-生成比特流文件)
     - [10. 上板！](#10-上板)
-- [参考文章](#参考文章)
+  - [参考文章](#参考文章)
 
 
         **ISE** 早于2013年停止更新，而杭电的数电计组课还在使用 ISE。然而如今大多数同学的电脑都装着 Windows 10（或Windows 11），ISE 又没有对其的适配，很多同学可能安装不上，还得再折腾一个虚拟机。
@@ -34,6 +39,8 @@
 ### 1. 下载
 
         从 [Vivado 官网](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/archive.html) 下载 2020.1 的版本，点击 <u>Xilinx Unified Installer 2020.1: Windows Self Extracting Web Installer</u>，注意名称，如图：
+
+> 为什么不选新版本：新版本添加了Mathine Learning的内容，体积较大，并且课上用不着。
 
 ![](./images/2022-04-09-01-16-06-image.png)
 
