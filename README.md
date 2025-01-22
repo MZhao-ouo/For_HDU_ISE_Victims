@@ -1,7 +1,7 @@
 # 去你的 ISE，Vivado 我来啦
 
 
-欢迎 [前往我的博客](http://blog.mmmz.xyz/For-HDU-ISE-Victim/) 进行阅读
+欢迎 [前往我的博客](http://blog.mmmz.top/For-HDU-ISE-Victim/) 进行阅读
 ---
 ## 目录
 - [去你的 ISE，Vivado 我来啦](#去你的-isevivado-我来啦)
